@@ -28,7 +28,7 @@ pyfolio](https://nbviewer.jupyter.org/format/slides/github/quantopian/pyfolio/bl
 To install pyfolio, run:
 
 ```bash
-pip install pyfolio
+pip install git+https://github.com/LegacyUpgraded/pyfolio.git
 ```
 
 #### Development
